@@ -2,8 +2,8 @@
 
 ##
 - I live in :brazil:, northeast, Recife - PE :sunglasses::sunrise:
-- I have been learning more about web development :octocat:
-- I have been learnig more about Python and Data Science :man_technologist:
+- I have been learning more about Python :snake:
+- I have been learnig more about Data Science :octocat:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/bruno-c-amaral/" target="_blank">
