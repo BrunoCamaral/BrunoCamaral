@@ -1,9 +1,9 @@
-<h1 align=center> Hi there👋 </h1>
+<h1 align=center><img src = "https://i.pinimg.com/originals/21/ef/d1/21efd1213ec2eb16ae538ab2e2c3b9b0.gif" width=650 height=250 </h1>
 
-## I'm Bruno Amaral
+##
 - I live in :brazil:, northeast, Recife - PE :sunglasses::sunrise:
 - I have been learning more about web development :octocat:
-- I have been learnig more about HTML and CSS :man_technologist:
+- I have been learnig more about Python and Data Science :man_technologist:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/bruno-c-amaral/" target="_blank">
@@ -16,10 +16,16 @@
 ### 📚 Developing Skills
 <table>
     <thead>
+        <th style="border-right: .2px solid rgba(255, 255, 255, .5)"> Data Science </th>
         <th style="border-right: .2px solid rgba(255, 255, 255, .5); border-left:.2px solid rgba(255, 255, 255, .5)"><center>Frontend</center></th>
         <th style="border-right: .2px solid rgba(255, 255, 255, .5)"> Tools </th>
     </thead>
     <tbody>
+        <td valign="top">
+            <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="32" />
+            <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/data-science-1829386-1553221.png" alt="bigData" width="32" />
+            <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="excel" width="32" />
+        </td>    
         <td valign="top">
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png"
             width="32"
@@ -38,13 +44,12 @@
             <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" 
             width="32"
             />
+            <img src="https://colab.research.google.com/img/colab_favicon_256px.png" 
+            width="32"
+            />
         </td>
     </tbody>
 </table>
-
-## Learning
-<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 
 ![Bruno Amaral GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCamaral&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCamaral&theme=dracula) 
