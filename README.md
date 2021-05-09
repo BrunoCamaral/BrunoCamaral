@@ -1,9 +1,10 @@
-<h1 align=center><img src = "https://i.pinimg.com/originals/21/ef/d1/21efd1213ec2eb16ae538ab2e2c3b9b0.gif" width=650 height=250 </h1>
+<h1 align=center>Hello World !! 🌎</h1>
 
 ##
 - I live in :brazil:, northeast, Recife - PE :sunglasses::sunrise:
 - I have been learning more about Python :snake:
 - I have been learnig more about Data Science :octocat:
+ <h2 align=left><img src = "https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-estatisticas-do-site_114360-1434.jpg" width=300 heigth=300> </h2>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/bruno-c-amaral/" target="_blank">
