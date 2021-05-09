@@ -10,7 +10,7 @@
 <img align="center" alt="bruno-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/brunoamaral.13/" target="_blank">
-<img align="center" alt="bruno-instagram" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1619708168~hmac=02ed45b1fda51c048161acbd4c29b7c5" style="max-width:100%;">
+<img align="center" alt="bruno-instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="max-width:100%;">
 </a>
 
 ### 📚 Developing Skills
