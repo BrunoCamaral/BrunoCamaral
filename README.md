@@ -7,7 +7,7 @@
 - I have been learning more about Python :snake:
 - I have been learnig more about Data Science :octocat:
 
-### *Developing Skills*
+### *Stacks*
 <table>
     <thead>
         <th style="border-right: .2px solid rgba(255, 255, 255, .5)"> Data Science </th>
