@@ -1,20 +1,13 @@
-<h1 align=center>Hello World !! 🌎</h1>
+## <p align="center">*Hello World !! 🌎*</p>
+*<p align="center">Mergulhando nesse oceano da Ciência de Dados</p>*
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brunoCamaral" alt="brunoCamaral" /> </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" />
 
-##
 - I live in :brazil:, northeast, Recife - PE :sunglasses::sunrise:
 - I have been learning more about Python :snake:
 - I have been learnig more about Data Science :octocat:
- <h2 align=left><img src = "https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-estatisticas-do-site_114360-1434.jpg" width=300 heigth=300> </h2>
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/bruno-c-amaral/" target="_blank">
-<img align="center" alt="bruno-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
-<a href="https://www.instagram.com/brunoamaral.13/" target="_blank">
-<img align="center" alt="bruno-instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="max-width:100%;">
-</a>
-
-### 📚 Developing Skills
+### *Developing Skills*
 <table>
     <thead>
         <th style="border-right: .2px solid rgba(255, 255, 255, .5)"> Data Science </th>
@@ -52,6 +45,10 @@
     </tbody>
 </table>
 
-![Bruno Amaral GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoCamaral&show_icons=true&theme=dracula)
+### *Connect with me:*
+<a href="https://www.linkedin.com/in/bruno-c-amaral/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/brunoamaral.13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="brunoamaral89680@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCamaral&theme=dracula) 
 
