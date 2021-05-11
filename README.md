@@ -1,6 +1,6 @@
 ## <p align="center">*Hello World !! 🌎*</p>
 *<p align="center">Mergulhando nesse oceano da Ciência de Dados</p>*
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brunoCamaral" alt="brunoCamaral" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brunoamaraldev" alt="brunoamaraldev" /> </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" />
 
 - I live in :brazil:, northeast, Recife - PE :sunglasses::sunrise:
@@ -47,8 +47,8 @@
 
 ### *Connect with me:*
 <a href="https://www.linkedin.com/in/bruno-c-amaral/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/brunoamaral.13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/brunoamaraldev/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="brunoamaral89680@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCamaral&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoamaraldev&theme=dracula) 
 
