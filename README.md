@@ -2,7 +2,7 @@
 *<p align="center">Mergulhando nesse oceano da tecnologia</p>*
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" />
 
-- I live in :brazil:, northeast, Recife - PE 😎:sunrise:
+- I live in northeast, Recife - PE 😎:sunrise:
 - I have been learning more about Web Development 🖥️
 - I have been learnig more about Data Science 💰
 
