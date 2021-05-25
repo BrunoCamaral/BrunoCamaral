@@ -4,7 +4,7 @@
 
 - I live in northeast, Recife - PE 😎:sunrise:
 - I have been learning more about Web Development 🖥️
-- I have been learnig more about Data Science 💰
+- I have been learnig more about Mobile Development 📱
 
 ### *Stacks*
 <table>
