@@ -36,4 +36,4 @@
   </code>
 </p>
  
-
+![Snake animation](https://github.com/brunoamaraldev/brunoamaraldev/blob/output/github-contribution-grid-snake.svg)
