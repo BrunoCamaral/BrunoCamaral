@@ -1,4 +1,4 @@
-## Welcome!!! My names is Bruno Amaral, i'm back-end developer in construction.
+## Welcome!!! My names is Bruno Amaral, i'm a back-end developer in construction.
  <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
