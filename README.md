@@ -19,7 +19,7 @@
  
  <img width="400" align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fswall.teahub.io%2Fphotos%2Fsmall%2F281-2815762_ruby-on-rails-business-project-header-image-ruby.png&f=1&nofb=1" alt="ruby-wallpaper" />
 
-### *Stacks*
+### *Learning*
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
