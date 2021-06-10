@@ -1,4 +1,4 @@
-### Welcome!!! My names is Bruno Amaral, i'm back-end developer in construction.
+## Welcome!!! My names is Bruno Amaral, i'm back-end developer in construction.
  <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
@@ -19,13 +19,9 @@
  
  <img width="400" align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fswall.teahub.io%2Fphotos%2Fsmall%2F281-2815762_ruby-on-rails-business-project-header-image-ruby.png&f=1&nofb=1" alt="ruby-wallpaper" />
 
-### *Learning*
-<div style="display: inline_block"><br>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-</div>
+### *Learning some technologies like Javascript and Ruby on Rails.*
 
-  ---
+---
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoamaraldev&layout=compact&langs_count=16&theme=dark"/>
   
