@@ -18,7 +18,7 @@
 ---
  
  <img width="200" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
- <img width="200" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" />
+ <img width="200" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
 
 ### *Learn about some technologies like Linux and AWS and am focusing on studies for the AWS Cloud Practitioner certification.*
 
