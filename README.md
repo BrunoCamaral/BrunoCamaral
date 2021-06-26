@@ -1,6 +1,6 @@
 <h1 align="center"> My names is Bruno Amaral </h1>
 <div align="center">
-<h3>I'm a DevOps in construction. 🛠 </h3>
+<h3>DevOps in construction 🛠 </h3>
 
  <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,7 +20,7 @@
  <img width="200" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
  <img width="200" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
 
-### *Learn about some technologies like Linux and AWS and am focusing on studies for the AWS Cloud Practitioner certification.*
+### *Learn about some technologies like Linux and AWS, and am focusing on studies for the AWS Cloud Practitioner certification.*
 
 ---
  
