@@ -17,10 +17,10 @@
 
 ---
  
- <img width="200" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
- <img width="200" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
+ <img width="200" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" />
+ <img width="200" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" />
 
-### *Learn about some technologies like Linux and Cloud, and am focusing on studies for the Microsoft Azure Fundamentals certification.*
+### *Learn about some technologies like Docker, Containers and Cloud, and am focusing on studies for the Microsoft Azure Fundamentals certification.*
 
 ---
  
