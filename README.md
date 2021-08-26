@@ -1,6 +1,6 @@
 <h1 align="center"> My names is Bruno Amaral </h1>
 <div align="center">
-<h3>DevOps in construction 🛠 </h3>
+<h3>Cybersecurity Analyst in construction 🛠 </h3>
 
  <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
