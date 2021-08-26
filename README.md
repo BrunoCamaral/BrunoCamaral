@@ -17,13 +17,13 @@
 
 ---
  
- <img width="200" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" />
- <img width="200" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" />
+ <img width="200" align="right" src="https://i.pinimg.com/564x/43/4e/31/434e3185a6b8d400a7ef71d91f4b0e5f.jpg" alt="blue-team" />
+ <img width="200" align="right" src="https://i.pinimg.com/564x/42/e2/0e/42e20eac04ac5f854925d9de80a6d36a.jpg" alt="red-team" />
 
-### *Learn about some technologies like Docker, Containers and Cloud, and am focusing on studies for the Microsoft Azure Fundamentals certification.*
+### *I'm learning about cybersecurity, ethical hacker concepts, incident response, vulnerability analysis, among other knowledge related to the area.*
 
 ---
  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoamaraldev&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoamaraldev&layout=compact&langs_count=16&theme=blue"/>
   
 ![Snake animation](https://github.com/brunoamaraldev/brunoamaraldev/blob/output/github-contribution-grid-snake.svg)
