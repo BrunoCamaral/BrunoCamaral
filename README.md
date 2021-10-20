@@ -23,13 +23,11 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoamaraldev&layout=compact&langs_count=16&theme=algolia"/>
 <div>
 
-  <p align="left"><br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php"  width="60" height="60">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"  width="40" height="40">
-    <img src="https://i.gifer.com/origin/d3/d3dedefd754cee2b2e1f31d2d135bf68.gif" align="right" alt="Lays" width="160" height="160">
-  </p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://i.gifer.com/origin/d3/d3dedefd754cee2b2e1f31d2d135bf68.gif" align="right" alt="Lays" width="160" height="160">
   
   ##
  
