@@ -3,15 +3,15 @@
 <h3>Developer in construction 🛠 </h3>
 <p>Entusiasta de Tecnologia, autodidata e atualmente cursando Análise e Desenvolvimento de Sistemas na Uninter</p>
 
- <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
     
-  <a href="http://api.whatsapp.com/send?phone=5581992724174" alt="WhatsApp">
+  <a href="http://api.whatsapp.com/send?phone=5581992724174" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
   
-  <a href="brunoamaral89680@gmail.com">
+  <a href="brunoamaral89680@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
     </a>
  </div>
