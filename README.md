@@ -1,7 +1,7 @@
 <h1 align="center"> My names is Bruno Amaral </h1>
 <div align="center">
 <h3>Developer in construction 🛠 </h3>
-<p>Entusiasta de Tecnologia, autodidata e atualmente cursando Análise e Desenvolvimento de Sistemas na Uninter</p>
+<p>Technology enthusiast, self-taught and currently studying Systems Analysis and Development at Uninter</p>
 
  <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
