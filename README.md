@@ -1,31 +1,39 @@
-<h1 align="center"> My names is Bruno Amaral </h1>
-<div align="center">
-<p>Technology enthusiast, self-taught and currently studying Systems Analysis and Development at Uninter</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF1FF7&random=false&width=435&lines=Ol%C3%A1%2C+Bem-vindo+ao+meu+Github!)](https://git.io/typing-svg)
 
- <a href="https://www.linkedin.com/in/bruno-c-amaral/" alt="Linkedin" target="_blank">
+<p>
+Estudante de Engenharia de Telecomunicações pela Universidade Federal de Pernambuco, curioso e empolgado com tudo que fala sobre tecnologia e inovação!
+Sou entusiasta da área de ciência de dados e IA, onde pretendo me especializar profissionalmente. Se quiser me acompanhar, clica no botão abaixo e vamo se conectar!
+</p>
+
+ <a href="https://www.linkedin.com/in/obrunochagas/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
-    
-  <a href="http://api.whatsapp.com/send?phone=5581992724174" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    </a>
-  
-  <a href="brunoamaral89680@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
-    </a>
+   </p>
  </div>
 
 ---
+
+### 📊 Estatísticas
  
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoamaraldev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoamaraldev&layout=compact&langs_count=16&theme=algolia"/>
+ 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoamaraldev&show_icons=true&theme=swift&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoamaraldev&layout=compact&langs_count=6&theme=swift"/>
+  
 <div>
+ 
+---
+
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />       
+  <img  align="center" alt="Jupyter-Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
+  <img  align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img src="https://i.gifer.com/origin/d3/d3dedefd754cee2b2e1f31d2d135bf68.gif" align="right" alt="Lays" width="160" height="160">
   
   ##
